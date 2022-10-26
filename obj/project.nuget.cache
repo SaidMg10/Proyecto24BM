@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "skyYPHw/Tg0JDquYP8RRr1XL9VHWnA4+xIt6dGiG0HL60dObHoAncDXj+H19gPabpod2XgHEM9kg7nR3J4ShPA==",
+  "dgSpecHash": "kvgL8fltnLNb2Gasqv7wota9bc2MhaEcL1PQRrPc2Td94ta7tyK0da6QHo9IFsssI1hovD8jfaONW5k6DTKS5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Upqroo\\Documents\\06-10-2022\\Proyecto24Bm\\Proyecto24Bm.csproj",
+  "projectFilePath": "C:\\Users\\Upqroo\\source\\repos\\Proyecto24BM\\Proyecto24Bm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Upqroo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Upqroo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

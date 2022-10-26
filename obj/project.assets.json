@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Upqroo\\Documents\\06-10-2022\\Proyecto24Bm\\Proyecto24Bm.csproj",
+      "projectUniqueName": "C:\\Users\\Upqroo\\Source\\Repos\\Proyecto24BM\\Proyecto24Bm.csproj",
       "projectName": "Proyecto24Bm",
-      "projectPath": "C:\\Users\\Upqroo\\Documents\\06-10-2022\\Proyecto24Bm\\Proyecto24Bm.csproj",
+      "projectPath": "C:\\Users\\Upqroo\\Source\\Repos\\Proyecto24BM\\Proyecto24Bm.csproj",
       "packagesPath": "C:\\Users\\Upqroo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Upqroo\\Documents\\06-10-2022\\Proyecto24Bm\\obj\\",
+      "outputPath": "C:\\Users\\Upqroo\\Source\\Repos\\Proyecto24BM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Upqroo\\AppData\\Roaming\\NuGet\\NuGet.Config",
